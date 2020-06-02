@@ -21,7 +21,7 @@ to the regulators. Design and development of the project architecture according 
 
 
 **_JetChat Ltd, June 12 - July 13, Lead java developer, PM_**  
-www.jetchat.ru Creation of the consulting service for chatting between salesmen and site visitors. Front-end: jquery, bootstrap. Server: Jetty, spring. Back-end: postgreSQL db, procedures. Source control: svn, project management; redmine. As usual, Agile process, scrum meetings, time and cost estimates, site engineer support.
+Creation of the consulting service for chatting between salesmen and site visitors. Front-end: jquery, bootstrap. Server: Jetty, spring. Back-end: postgreSQL db, procedures. Source control: svn, project management; redmine. As usual, Agile process, scrum meetings, time and cost estimates, site engineer support.
 
 
 **_Huawei Technologies, March 10 - June 12, Senior j2ee developer_**  
