@@ -13,7 +13,7 @@ Position: **Scala Developer**
 
 #### _FDLabs, Freelance, March 2019 - Present, Scala developer_
 Web app development - web scraping of digital retail companies catalogs.
-Usage of external parser engines (webhose.io). Server stack: http4s, cats, Monix, fs2, doobie, TAPIR, Swagger. RDBMS - postgres. Unit-testing. Code sample: https://github.com/twr143/restApiTemplate
+Usage of external parser engines (webhose.io). Server stack: http4s, cats, Monix, fs2, doobie, TAPIR, Swagger. RDBMS - postgres. Unit-testing. Docker deployment. Code sample:  https://github.com/twr143/restApiTemplate
 
 
 #### _Raiffeisen Bank, Moscow Jan 17 - June 18, Scala developer_
@@ -42,6 +42,8 @@ Customization of the administrative part of the platform of ring back tones (RBT
 **Core:**  Collections, Concurrency, GC, Algorithms, Performance, 8
 
 **DBs:** Oracle, Postgresql
+
+**DevOps:** Docker
 
 #### _Programming languages:_
 **Java** - 6 years
