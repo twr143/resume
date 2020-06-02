@@ -37,7 +37,10 @@ Customization of the administrative part of the platform of ring back tones (RBT
 ### Skills:
 **Scala techs:**   http4s, cats, Monix, fs2, doobie, TAPIR, Akka, Kafka, Swagger 
 
-**java technologies:**  **Core:**  Collections, Concurrency, GC, Algorithms, Performance, 8  **DBs:** Oracle, Postgresql  **DevOps:** Docker
+**java technologies:**--
+**Core:**  Collections, Concurrency, GC, Algorithms, Performance, 8--
+**DBs:** Oracle, Postgresql--
+**DevOps:** Docker
 
 #### _Programming languages:_
 **Java** - 6 years
