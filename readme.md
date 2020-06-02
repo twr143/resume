@@ -1,12 +1,14 @@
-##Resume of Ilya Volynin.
+## Resume of Ilya Volynin.
 
 location: **Russia**
+
 Languages: **English**
+
 email: **iv4jjw@gmail.com**
 
 Position: **Scala Developer** 
 
-##Working history##
+## Working history
 
 
 FDLabs, Freelance, March 2019 - Present, Scala developer
