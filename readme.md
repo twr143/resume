@@ -37,19 +37,11 @@ Customization of the administrative part of the platform of ring back tones (RBT
 ### Skills:
 **Scala techs:**   http4s, cats, Monix, fs2, doobie, TAPIR, Akka, Kafka, Swagger 
 
-**java technologies:**
-
-**Core:**  Collections, Concurrency, GC, Algorithms, Performance, 8
-
-**DBs:** Oracle, Postgresql
-
-**DevOps:** Docker
+**java technologies:**  **Core:**  Collections, Concurrency, GC, Algorithms, Performance, 8  **DBs:** Oracle, Postgresql  **DevOps:** Docker
 
 #### _Programming languages:_
 **Java** - 6 years
 **Scala** - 3 years
 
 ### _Education._
-Bachelor, Applied Mathematics, Yaroslavl State University sep 1999 - jun 2004 
-
-Master of Science, Mathematics, The Ohio State University USA june 2006 - august 2008.
+Bachelor, Applied Mathematics, Yaroslavl State University sep 1999 - jun 2004  Master of Science, Mathematics, The Ohio State University USA june 2006 - august 2008.
