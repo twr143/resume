@@ -5,7 +5,7 @@ Languages: **English**
 Email: **iv4jjw@gmail.com**
 Telegram: **@ivolynin**
 Position: **Scala Developer**
-
+                              
 ## Working history
 
 **_FDLabs, Freelance, March 2019 - Present, Scala developer_**  
