@@ -1,7 +1,7 @@
 ## Resume of Ilya Volynin.
 
-location: **Russia**  
-Languages: **English**  
+Location: **Russia**
+Languages: **English**
 Email: **iv4jjw@gmail.com**
 Telegram: **@ivolynin**
 Position: **Scala Developer**
