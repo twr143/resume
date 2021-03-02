@@ -2,8 +2,9 @@
 
 location: **Russia**  
 Languages: **English**  
-Email: **iv4jjw@gmail.com**  
-Position: **Scala Developer** 
+Email: **iv4jjw@gmail.com**
+Telegram: **@ivolynin**
+Position: **Scala Developer**
 
 ## Working history
 
