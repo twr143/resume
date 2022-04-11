@@ -8,7 +8,10 @@ Position: **Scala Developer**<br>
                               
 ## Working history
 
-**_FDLabs, Freelance, March 2019 - Present, Scala developer_**  
+**_One Technologies, June 2021 - Present, Scala developer_**  
+Development of backend of mobile online banking client for ForteBank (Kazakhstan). Microservices architecture. Stack: Akka, Kafka, ELK, Cassandra, Docker, Kubernetes, Gitlab ci.
+
+**_FDLabs, Freelance, March 2019 - June 2021, Scala developer_**  
 Web app development - web scraping of digital retail companies catalogs.
 Usage of external parser engines (webhose.io). Server stack: http4s, cats, Monix, fs2, doobie, TAPIR, Swagger. RDBMS - postgres. Unit-testing. Docker deployment. Code sample:  https://github.com/twr143/restApiTemplate
 
@@ -32,14 +35,14 @@ Customization of the administrative part of the platform of ring back tones (RBT
 ### Skills:
 **Scala techs:**   http4s, cats, Monix, fs2, doobie, TAPIR, Akka, Kafka, Swagger, Flink
 
-**Java technologies:**  
-**Core:**  Collections, Concurrency, GC, Algorithms, Performance, 8  
-**DBs:** Oracle, Postgresql  
-**DevOps:** Docker
+**Java Core:**  Collections, Concurrency, GC, Algorithms, Performance, 8  
+**RDBMS:** Postgres  
+**NOSQL:** ELK, Redis, Cassandra    
+**CI/CD:** Docker, Kubernetes, Gitlab, Jenkins
 
 **Programming languages:**  
 **Java** - 6 years  
-**Scala** - 3 years
+**Scala** - 5 years
 
 ### _Education._
 Bachelor, Applied Mathematics, **Yaroslavl State University**, sep 1999 - jun 2004  
